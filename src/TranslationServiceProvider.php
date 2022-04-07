@@ -4,7 +4,7 @@ namespace Spatie\TranslationLoader;
 
 use Illuminate\Support\Str;
 use Illuminate\Translation\TranslationServiceProvider as IlluminateTranslationServiceProvider;
-use Juzaweb\Support\Installer;
+use Juzaweb\CMS\Support\Installer;
 
 class TranslationServiceProvider extends IlluminateTranslationServiceProvider
 {
